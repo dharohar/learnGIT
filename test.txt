@@ -1,1 +1,2 @@
 change made when in master branch
+this change should appear after a fetch
